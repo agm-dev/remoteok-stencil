@@ -1,0 +1,1 @@
+System.register([],(function(e){"use strict";return{execute:function(){var t=e("S","/remoteok-stencil");var r=e("A","https://brainl.es/remoteok/v1/remotejobs")}}}));
